@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SpaceXLaunchTrackerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SpaceXLaunchTrackerApp" parent="Base.Theme.SpaceXLaunchTrackerApp" />
+
+
+    <style name="regular_font">
+        <item name="fontFamily">@font/gotham_book</item>
+    </style>
+
+    <style name="medium_font">
+        <item name="fontFamily">@font/gotham_medium</item>
+    </style>
+
+
+</resources>

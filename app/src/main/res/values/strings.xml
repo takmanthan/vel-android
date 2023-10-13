@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpaceX Launch Tracker App</string>
+
+    <string name="launchers_heading">Launchers</string>
+    <string name="description">Launch Date : 10 March 2023\nRocket Name : Polar Satellite Launch Vehicle </string>
+    <string name="failure">Failure</string>
+    <string name="success">Success</string>
+    <string name="rocket_details">Rocket Details:</string>
+    <string name="launch_details">Launch Details:</string>
+    <string name="mission_patch">Mission Patch:</string>
+    <string name="mission_description">Mission Description:</string>
+    <string name="links">Links:</string>
+    <string name="network_error">Please connect to internet.</string>
+</resources>
